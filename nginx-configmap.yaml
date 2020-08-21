@@ -25,7 +25,7 @@ data:
                 "class": "Service_TCP",
                 "virtualAddresses": ["10.1.10.246"],
                "remark":"ingress: f5demo.tcp.v1",
-               "virtualPort": 80,
+               "virtualPort": 8086,
                 "pool": "ingress_pool"
              },
              "ingress_pool": {
