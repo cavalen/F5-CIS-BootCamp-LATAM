@@ -23,7 +23,7 @@ data:
                 "template":"generic",
                 "partner-api":{
                   "class":"Service_HTTP",
-                  "virtualAddresses":[ "10.0.2.10" ],
+                  "virtualAddresses":[ "10.1.10.246" ],
                   "remark":"partner-api: f5demo.tcp.v1",
                   "virtualPort":80,
                   "pool":"api_pool"
