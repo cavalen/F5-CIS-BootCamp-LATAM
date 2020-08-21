@@ -25,7 +25,7 @@ data:
                   "class":"Service_HTTP",
                   "virtualAddresses":[ "10.1.10.246" ],
                   "remark":"partner-api: f5demo.tcp.v1",
-                  "virtualPort":80,
+                  "virtualPort":8088,
                   "pool":"api_pool"
                 },
                 "api_pool":{
